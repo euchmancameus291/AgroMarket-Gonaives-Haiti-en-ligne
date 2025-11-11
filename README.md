@@ -1,18 +1,26 @@
-# AletOkap
-À Cap-Haïtien, la sécurité reste encore meilleure qu’à Port-au-Prince, mais les citoyens manquent d’un outil fiable pour partager et recevoir des informations en temps réel sur les incidents autour d’eux. AlètOkap apporte une solution en permettant de signaler rapidement un incident avec localisation et photo/vidéo, d’alerter la communauté par notifications, et de visualiser les zones à risque sur une carte interactive, favorisant ainsi la vigilance et la prévention collective.
+# AgroMarket Gonaïves Haïti en ligne
+AgroMarket Gonaïves Haïti en ligne représente une innovation essentielle pour le développement local, car il met directement en relation les producteurs agricoles et les consommateurs, réduisant ainsi le poids des intermédiaires. Cette application va permettre aux paysans d’augmenter leurs revenus tout en offrant des prix plus accessibles acheteurs. Elle va favoriser également l’intégration des outils technologiques dans une région marginalisée, contribuant à moderniser les pratiques commerciales. Ainsi, en valorisant les produits locaux, AgroMarket renforcera la sécurité alimentaire et soutient l’économie rurale. Grace à des paiements intégrés comme Moncash et Natcash, les transactions deviennent plus transparentes et sécurisées.
 
 # Membres du groupe
-- Esther Love Prisnie Desravines
-- Exantus Jn-Noel
-- Stella Bejhina Metellus
+- Euchman CAMEUS
+- Wadjy-rocker CAJUSTE
+
   
 # User Stories
-
+ # AgroMarket Gonaives  en ligne 
+ C'est une application mobile concue pour faciliter l'achat de produits alimentaires et agricoles dans la commune des Gonaives. Elle vise a connecter les producteurs locaux aux consommateurs via une plateforme accessible. Ainsi, permetttant aux habitants des Gonaives et des environs de cmmander les produits locaux en ligne, tout en modernisant les circuits de distribution.
+ # Fonctionnalite du prototype
+ Inscription et connexion : Creation de compte avec nom, prenom, email et mot de passe
+ Catalogue de produits : Classements par categories (produits alimentaires et agricoles ) avec poids et prix affiches.
+ Panier d'achat : Selection des produits, calculs automatique du cout total.
+ Confirmation et paiement : Choix entre deux moyens de paiement locaux - Moncash et Natcash.
+ Interface en francais et le creole : Adaptee au contexte linguistique local pour une meilleure accessibilite.
+ Produits presenter : Alimentaires ( Diri KPK, Diri chela, poids beurre) et agricoles (figues mures, melon, orange).
+ 
 # Must have
 
 - [x] L'utilisateur peut créer un compte et se connecter afin d'accéder à l'application 
-- [x] L’utilisateur peut signaler un incident de façon anonyme(vol, agression, cambriolage, etc.) en ajoutant la date et l'heure, une description courte, une photo/vidéo, et       la localisation.
-- [x] L’utilisateur peut recevoir une notification lorsqu’un incident survient.
+- [ ] L’utilisateur peut recevoir une notification lorsqu’un incident survient.
 - [x] L’utilisateur peut visualiser les alertes sur une carte interactive, avec des codes couleur pour distinguer les types d'incidents.
 - [x] L’utilisateur peut consulter une liste des alertes récentes envoyées par d’autres membres de la communauté.
 - [x] L’utilisateur peut accéder à une page contenant les informations importantes (numéros de police, hôpital, ambulance, protection civile, etc.).
