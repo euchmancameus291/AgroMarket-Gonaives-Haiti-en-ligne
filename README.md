@@ -34,7 +34,8 @@ AgroMarket Gonaïves Haïti en ligne représente une innovation essentielle pour
 # Prototype Figma
 https://www.figma.com/design/QPrcrus2kpvCrumnoq4kh2/Projet-Final?node-id=0-1&t=64gCLyzVxTfbTBFe-1
 
-<img src="iPhone 16 Pro Max - 1.png" width=200>  
+<img src="iPhone 16 Pro Max - 1.png" width=200> 
+<img src="https://github.com/euchmancameus291/AgroMarket-Gonaives-Haiti-en-ligne/blob/main/iPhone%2016%20Pro%20Max%20-%202.png?raw=true" width=200>
 
 <img src="Home.png" width=200>  <img src="New Alert.png" width=200>  <img src="Map.png" width=200>  <img src="Liste Alerte.png" width=200>  <img src="Manifestation.png" width=200>  <img src="menu.png" width=200>  <img src="Profile.png" width=200> 
 <img src="menu sombre.png" width=200> 
